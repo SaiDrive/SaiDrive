@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaiDrive
-- 👀 I’m interested in software developer
+- 👀 I’m interested in software developement
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...You can reach me via email: mail2saishankar@gmail.com

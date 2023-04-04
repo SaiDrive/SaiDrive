@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @SaiDrive
-- 👀 I’m interested in software developement
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on projects
+- 👋 Hi, I’m Bhavani Sankar
+- 👀 I’m a software Engineer with 3 years of Experience
+- 🌱 I've worked on and good with Node.js, Java, JavaScript, React.js and MongoDB
 - 📫 How to reach me ...You can reach me via email: mail2saishankar@gmail.com
 
 <!---

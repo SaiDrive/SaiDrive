@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Bhavani Sankar
-- 👀 I’m a software Engineer with 3 years of Experience
-- 🌱 I've worked on and good with Node.js, Java, JavaScript, React.js and MongoDB
+- 👋 Hi, I’m Bhavani Sankar Sai P
+- 👀 I’m Full Stack Software Engineer with 3+ years of Experience
+- 🌱 I've worked on and am good with Node.js, Java, TypeScript, JavaScript, React.js, and MongoDB
 - 📫 How to reach me ...You can reach me via email: mail2saishankar@gmail.com
 
 <!---
